@@ -7,9 +7,10 @@ This collection showcases both my **Frontend Development** and **Blockchain Smar
 
 ## 🗂️ Project Structure
 
-Projects/
-├── Frontend Projects/ → Web apps built using HTML, CSS, JavaScript, React, etc.
-└── Smart Contracts/ → Solidity-based blockchain projects with real-world use cases
+Projects/  
+├── Frontend Projects/ → Web apps built using HTML, CSS, JavaScript, React, etc.  
+├── Smart Contracts/ → Solidity-based blockchain projects with real-world use cases  
+└── D-Apps/ → Decentralized applications integrating smart contracts with a frontend  
 
 ---
 
@@ -54,6 +55,21 @@ Solidity-based contracts built with various blockchain use cases:
 
 ---
 
+## ⚡ D-Apps
+
+A new section added for complete decentralized applications integrating frontend with smart contracts.
+
+### 📂 Project List
+
+| Project Name                               | Tech Used                                | Description                                                                 |
+|--------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------|
+| [TSender](./D-Apps/tsender)                | Next.js, wagmi, RainbowKit, Solidity      | Efficient ERC20 multi-recipient airdrop platform with gas-optimized smart contract |
+
+- `D-Apps/` is a new folder in the home directory to organize full-stack DApps.
+- Each project combines both UI and smart contract logic into a unified solution.
+
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js  
@@ -63,6 +79,7 @@ Solidity-based contracts built with various blockchain use cases:
 ---
 
 ## 📬 Contact
+
 If you want to collaborate or give feedback, feel free to reach out at [2002adis@gmail.com].
 
 ---
