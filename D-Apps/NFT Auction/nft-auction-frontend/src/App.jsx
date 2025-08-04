@@ -4,8 +4,6 @@ import { MyNftABI, contractAddress } from './MyNftABI';
 import { nftAuctionAddress, nftAuctionABI } from './nftAuctionABI';
 
 
-
-
 const getRemainingTime = (endTime) => {
   const currentTime = Math.floor(Date.now() / 1000);
   const remainingTime = endTime - currentTime;

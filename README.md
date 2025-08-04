@@ -65,6 +65,7 @@ A new section added for complete decentralized applications integrating frontend
 |--------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------|
 | [TSender](./D-Apps/tsender)                | Next.js, wagmi, RainbowKit, Solidity      | Efficient ERC20 multi-recipient airdrop platform with gas-optimized smart contract |
 | [NFT Auction](./D-Apps/NFTAuction)        | React, web3.js, Solidity      | Decentralized NFT auction platform with bidding and auction management |
+| [Decentralized FreelanceEscrow Platform](./D-Apps/freelance-escrow) | React, Solidity, Web3.js | Secure escrow system for freelancers and clients with dispute resolution  |
 
 - `D-Apps/` is a new folder in the home directory to organize full-stack DApps.
 - Each project combines both UI and smart contract logic into a unified solution.
